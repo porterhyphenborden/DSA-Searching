@@ -1,0 +1,3 @@
+[submodule "search-algorithms"]
+	path = search-algorithms
+	url = https://github.com/porterhyphenborden/search-algorithms
